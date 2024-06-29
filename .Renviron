@@ -1,3 +1,0 @@
-PATH="/opt/homebrew/opt/gcc/bin:${PATH}"
-LIBRARY_PATH="/opt/homebrew/Cellar/gcc/14.1.0_1/lib/gcc/14:${LIBRARY_PATH}"
-
